@@ -100,7 +100,7 @@ if __name__ == '__main__':
     dim = (224, 224)
     frames = 10
     channels = 3
-    model_path = './model/WLASL20c_model.h5'
+    model_path = './model/model.h5'
     threshold = .50
 
     # load model
